@@ -1,14 +1,13 @@
 # FoodBridge – Connecting Surplus Food to Those in Need
 ## 📌 Problem Statement
-Food wastage and hunger exist side by side.
+- Food wastage and hunger exist side by side.
 Every day, restaurants, households, and events discard surplus food, while NGOs and shelters struggle to provide meals to people in need.
-The challenge is lack of a simple, real-time platform that:
+- The challenge is lack of a simple, real-time platform that:
 Connects food donors with nearby NGOs
 Ensures food safety checks
 Allows location-based pickup coordination
 FoodBridge solves this gap by creating a digital bridge between donors and NGOs to reduce food waste and fight hunger efficiently.
 
-🛠️ Tech Stack
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -56,12 +55,13 @@ flutter pub get
 ```
 
 3️⃣ Firebase Configuration
-Create a Firebase project
-Enable Authentication
-Enable Firestore Database
-Add your Firebase config files:
-google-services.json (Android)
-GoogleService-Info.plist (iOS)
+- Create a Firebase project
+- Enable Authentication
+- Enable Firestore Database
+- Add your Firebase config files:
+- google-services.json (Android)
+- GoogleService-Info.plist (iOS)
+  
 4️⃣ Run the App
 ```bash
 flutter run
@@ -82,8 +82,9 @@ https://drive.google.com/file/d/1ZGIUGc5C5HxbUkHCxlcW35BGzJxhTqLh/view?usp=drive
 ## Author
 Built with ❤️ during a hackathon to create technology for social good.
 
-collaborators 
-Gauri Bhasme
-Tanvi Watane
-Anushri Khalokar
-Darshana Rekhate
+### collaborators 
+- Gauri Bhasme
+- Tanvi Watane
+- Anushri Khalokar
+- Darshana Rekhate
+
